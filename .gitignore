@@ -8,7 +8,7 @@ artifacts/
 # Environment files
 .env
 
-# Hardhat-specific files
+# Hardhat specific files
 coverage/
 coverage.json
 typechain/
